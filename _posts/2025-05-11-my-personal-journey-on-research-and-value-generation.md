@@ -4,7 +4,6 @@ date: 2025-05-11
 permalink: /posts/2025/05/my-personal-journey-on-research-and-value-generation/
 tags:
   - personal
-  - non-technical
 ---
 
 When people talk about research, the first thing that comes to mind is probably breakthroughs and big discoveries. But behind every published paper and polished presentation is a winding personal journey, one filled with uncertainty, self-doubt, and growth. For me, research started as an adventure sparked by curiosity and evolved into a deeper understanding of what it means to generate value, not just for myself, but for the world around me. This is the story of how I came to see research not just as a pursuit of knowledge, but also as a journey to impact.
