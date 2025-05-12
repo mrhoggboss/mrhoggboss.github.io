@@ -7,7 +7,7 @@ excerpt: 'A soft graph matching algorithm for ecological applications.'
 date: 2025-05-01
 venue: 'Texas Colloquium on Distributed Learning'
 posterurl: 'http://academicpages.github.io/files/Wasserstein_Motifs_TL;DR_Conference_Poster.pdf'
-reporturl: 'http://academicpages.github.io/files/COMP_414_Final_Report.pdf'
+paperurl: 'http://academicpages.github.io/files/COMP_414_Final_Report.pdf'
 ---
 
 Abstract:
