@@ -18,7 +18,7 @@ Education
 * **Wasserstein Motif: Optimal Transport for Ecological Network Alignment**  
 May 2024 - Present  
 *Research Assistant | Optimal-Ensembles Lab, Rice University*  
-Advisor(s): Dr. [César A. Uribe](https://cauribe.rice.edu), Dr. [Lydia Beaudrot](https://lydiabeaudrot.weebly.com)
+Advisors: Dr. [César A. Uribe](https://cauribe.rice.edu), Dr. [Lydia Beaudrot](https://lydiabeaudrot.weebly.com)
   * Developed an optimal transport framework to quantify dissimilarities between food webs using the Wasserstein metric, enabling scalable ecological network analysis.
   * Demonstrated computational efficiency over traditional methods like network motif analysis, reducing complexity from combinatorial to polynomial.
   * Aligned species functional similarities across ecosystems, providing insights into ecological interactions and supporting biodiversity conservation efforts.
@@ -27,7 +27,7 @@ Advisor(s): Dr. [César A. Uribe](https://cauribe.rice.edu), Dr. [Lydia Beaudrot
 * **A Discrete-time Networked Competitive Bivirus SIS Model**  
 May 2024 - Nov 2024  
 *Research Assistant | Optimal-Ensembles Lab, Rice University*  
-Advisor(s): Dr. [César A. Uribe](https://cauribe.rice.edu), Dr. [Sebin J. Gracy](https://sites.google.com/view/sebinjosegracy/home)
+Advisors: Dr. [César A. Uribe](https://cauribe.rice.edu), Dr. [Sebin J. Gracy](https://sites.google.com/view/sebinjosegracy/home)
   * Designed and implemented custom simulations in Python to model virus spread on networks, leveraging mathematical understanding and computational techniques, with full version control via Git, resulting in the verification of 3 key theoretical findings and 4 scientific figures.
   * Communicated effectively with researchers from Rice University and South Dakota School of Mines and Technology, resulting in successful collaboration over a 13-hour time difference.
   * Presented at the ECE Section of Gulf-Coast Undergraduate Research Symposium.
@@ -35,6 +35,7 @@ Advisor(s): Dr. [César A. Uribe](https://cauribe.rice.edu), Dr. [Sebin J. Gracy
 * **Evaluation of SSVEP Stimuli Design for Visual Field Assessment**
 May 2021 - May 2022  
 *Research Intern | Center for Brain-Computing Research, Nanyang Technological University, Singapore*  
+Advisor: [Aung Aung Phyo Wai](https://scholar.google.com/citations?user=MdrjFJEAAAAJ&hl=en)
   * Performed multidimensional analysis on three stimuli layouts in the context of Steady-State Visual Evoked Potential Visual Field Assessments
   * Partnered with researchers at Nanyang Technological University
   * Determined the optimal layout to maximize comfort and minimize test-retest variability
