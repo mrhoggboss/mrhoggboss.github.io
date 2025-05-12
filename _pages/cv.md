@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Operations Research, B.A. in Computer Science and B.A. in Mathematics, Rice University, 2027
+* B.S. in Operations Research, B.A. in Computer Science and Mathematics, Rice University, 2027
 
-Research Projects
+[Research Projects](https://mrhoggboss.github.io/research/)
 ======
 * **Wasserstein Motif: Optimal Transport for Ecological Network Alignment**  
 May 2024 - Present  
@@ -31,6 +31,23 @@ Advisor(s): Dr. [César A. Uribe](https://cauribe.rice.edu), Dr. [Sebin J. Gracy
   * Designed and implemented custom simulations in Python to model virus spread on networks, leveraging mathematical understanding and computational techniques, with full version control via Git, resulting in the verification of 3 key theoretical findings and 4 scientific figures.
   * Communicated effectively with researchers from Rice University and South Dakota School of Mines and Technology, resulting in successful collaboration over a 13-hour time difference.
   * Presented at the ECE Section of Gulf-Coast Undergraduate Research Symposium.
+
+* **Evaluation of SSVEP Stimuli Design for Visual Field Assessment**
+May 2021 - May 2022  
+*Research Intern | Center for Brain-Computing Research, Nanyang Technological University, Singapore*  
+  * Performed multidimensional analysis on three stimuli layouts in the context of Steady-State Visual Evoked Potential Visual Field Assessments
+  * Partnered with researchers at Nanyang Technological University
+  * Determined the optimal layout to maximize comfort and minimize test-retest variability
+  * Published on [Cyberworlds 2022](https://ieeexplore.ieee.org/document/9937366) as the first author
+
+* **Investigation of the Shoelace Method in Higher Dimensions**
+Feb 2019 - June 2021  
+*Independent research | NUS High School, Singapore*
+  * Found a novel alternative proof of the shoelace method
+  * Developed extended shoelace method that works in three dimensions
+  * Overcame difficult subproblems by self-studying and applying graph theory concepts
+  * Won various gold awards in national level competitions in Singapore (SSEF 2021, SMPF 2021)
+  * Published on [The Mathematical Medley Vol. 47](https://sms.math.nus.edu.sg/mathematical-medley/) as the first author
 
 
 Work Experiences
@@ -64,9 +81,9 @@ Feb 2025
 
 Honors/Awards
 ======
-* Cornell, Maryland, Max Planck Pre-Doctoral Research School          Apr 2025
-* Rice University, Bishnoi SER Scholar and CREST Scholar	        		Sept 2024
-* Rice University, President’s Honor Roll					                    Fall 2023, Fall 2024
+* **Cornell, Maryland, Max Planck Pre-Doctoral Research School**          Apr 2025
+* **Rice University, Bishnoi SER Scholar and CREST Scholar**	        		Sept 2024
+* **Rice University, President’s Honor Roll**					                    Fall 2023, Fall 2024
 
 Skills
 ======
