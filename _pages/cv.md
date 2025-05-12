@@ -60,4 +60,10 @@ Skills
   
 Service and leadership
 ======
-
+* **Workshop Creator & Instructor**
+  * *Pilot Outreach program on Data Science and Sustainability*
+  * Collaborated with a 4-person team to design and deliver([link](https://colab.research.google.com/drive/1rc1Xam0Zsyu3KOXuZcDt0Ryk9EHekDvr?usp=sharing) to colab) a curriculum on data science applications in ecology and sustainability.
+  * Taught community college students from Lone Star College, San Jacinto College, and Houston Community College through interactive workshops and lectures.
+  * Developed hands-on materials covering Python, data analysis, and ecological modeling.
+  * Program hosted by Rice University, supported by Google and led by faculty including Prof. César Uribe.
+  * Concluded with a student-led poster session to present final projects.
