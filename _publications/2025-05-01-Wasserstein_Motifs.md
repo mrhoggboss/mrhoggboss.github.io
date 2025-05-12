@@ -6,8 +6,8 @@ permalink: /publication/wasserstein-motifs
 excerpt: 'A soft graph matching algorithm for ecological applications.'
 date: 2025-05-01
 venue: 'Texas Colloquium on Distributed Learning'
-posterurl: 'http://academicpages.github.io/files/Wasserstein_Motifs_TL;DR_Conference_Poster.pdf'
-paperurl: 'http://academicpages.github.io/files/COMP_414_Final_Report.pdf'
+posterurl: 'http://mrhoggboss.github.io/files/Wasserstein_Motifs_TL;DR_Conference_Poster.pdf'
+paperurl: 'http://mrhoggboss.github.io/files/COMP_414_Final_Report.pdf'
 ---
 
 Abstract:
