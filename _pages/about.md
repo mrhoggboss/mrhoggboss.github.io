@@ -9,7 +9,7 @@ redirect_from:
 
 Hi! I’m Yifan Xu, a rising junior at [Rice University](https://www.rice.edu/) majoring in Computer Science, Mathematics and Operations Research. I am broadly interested in optimization for machine learning applications. I am fortunate to be mentored by Professor [César A. Uribe](https://cauribe.rice.edu/), and my current research explores how we can ultilize tools from optimal transport to compare and analyze food webs.
 
-Outside of research, I’m a TA and [Peer Educator](https://mrhoggboss.github.io/files/OASUS_Cert.pdf) in both Math and CS departments and love helping others understand mathematical ideas. I also enjoy playing basketball, Go, and all sorts of board games, and I’ve recently started running a few tabletop RPG campaigns as a game master!
+Outside of research, I’m a TA and [Peer Educator](https://mrhoggboss.github.io/files/OASUS_Cert.pdf) in both Math and CS departments and love helping others understand mathematical ideas. I also enjoy playing basketball, Go, and all sorts of board games.  I’ve recently started running a few tabletop RPG campaigns as a game master!
 
 news
 ------
