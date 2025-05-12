@@ -39,12 +39,23 @@ Work Experiences
   * Holds office hours for ~40% of the class per 1-hour session for 2 sessions a week
   * Gives ~10-min mini-lectures on linear algebra concepts on demand
   * Meets biweekly with professors and fellow TAs to reflect and ensure teaching consistency
+
 * **Intro to Algorithms Peer Educator**			                                            Jan 2025 - May 2025
 *Rice Office of Academic Support for Undergraduate Students(OASUS), Houston, TX*
   * Facilitated collaborative drop-in tutoring sessions weekly for undergraduate students in Algorithms.
   * Partnered with faculty through biweekly communication and in-class visits to ensure alignment with course objectives and identify common student challenges.
   * Attended and contributed to 8+ hours of professional development, including workshops on inclusive pedagogy, metacognitive learning, and exam review facilitation.
   * Conducted peer observation and participated in structured feedback sessions to improve tutoring effectiveness and create a welcoming academic environment.
+  
+Service and leadership
+======
+* **Workshop Creator & Instructor**
+  * *Pilot Outreach program on Data Science and Sustainability*
+  * Collaborated with a 4-person team to design and deliver([link](https://colab.research.google.com/drive/1rc1Xam0Zsyu3KOXuZcDt0Ryk9EHekDvr?usp=sharing) to colab) a curriculum on data science applications in ecology and sustainability.
+  * Taught community college students from Lone Star College, San Jacinto College, and Houston Community College through interactive workshops and lectures.
+  * Developed hands-on materials covering Python, data analysis, and ecological modeling.
+  * Program hosted by Rice University, supported by Google and led by faculty including Prof. César Uribe.
+  * Concluded with a student-led poster session to present final projects.
 
 Honors/Awards
 ======
@@ -57,13 +68,3 @@ Skills
 * Coding: Python, Java, C, LaTeX, Github, R, Pandas, matplotlib, Git, NetworkX, Jupyter Notebooks
 * Math: Computational Optimal Transport, Linear Algebra, Real Analysis, Graph Theory, Measure Theory
 * Soft skills: Teamwork, Scientific Communication, Academic Writing, Literature Review
-  
-Service and leadership
-======
-* **Workshop Creator & Instructor**
-  * *Pilot Outreach program on Data Science and Sustainability*
-  * Collaborated with a 4-person team to design and deliver([link](https://colab.research.google.com/drive/1rc1Xam0Zsyu3KOXuZcDt0Ryk9EHekDvr?usp=sharing) to colab) a curriculum on data science applications in ecology and sustainability.
-  * Taught community college students from Lone Star College, San Jacinto College, and Houston Community College through interactive workshops and lectures.
-  * Developed hands-on materials covering Python, data analysis, and ecological modeling.
-  * Program hosted by Rice University, supported by Google and led by faculty including Prof. César Uribe.
-  * Concluded with a student-led poster session to present final projects.
