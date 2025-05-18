@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Operations Research, B.A. in Computer Science and Mathematics, Rice University, 2027
 
-[Research Projects](https://mrhoggboss.github.io/research/)
+[Research Experiences](https://mrhoggboss.github.io/research/)
 ======
 * **Wasserstein Motif: Optimal Transport for Ecological Network Alignment**  
 May 2024 - Present  
@@ -50,6 +50,15 @@ Feb 2019 - June 2021
   * Won various gold awards in national level competitions in Singapore (SSEF 2021, SMPF 2021)
   * Published on [The Mathematical Medley Vol. 47](https://sms.math.nus.edu.sg/mathematical-medley/) as the first author
 
+[Projects](https://mrhoggboss.github.io/projects/)
+======
+* **FEAT: Automated Python Function Tester**  
+Aug 2024 - Dec 2024  
+*Course Project | Rice University*
+  * Implemented FEAT, a Java-based testing framework that auto-generates concise test sets for Python functions using reference and buggy implementations.
+  * Built a recursive Python object hierarchy and parser to interpret type specifications from config files.
+  * Engineered modules for test execution and set coverage minimization, combining file I/O, process handling, and randomized and exhaustive test generation.
+  * Integrated all components into an end-to-end system that parses input, runs test cases, and selects a near-minimal failure-inducing subset.
 
 Work Experiences
 ======
@@ -84,10 +93,15 @@ Honors/Awards
 ======
 * **Cornell, Maryland, Max Planck Pre-Doctoral Research School**          Apr 2025
 * **Rice University, Bishnoi SER Scholar and CREST Scholar**	        		Sept 2024
-* **Rice University, President’s Honor Roll**					                    Fall 2023, Fall 2024
+* **Rice University, President’s Honor Roll**					                    Fall 2023, Fall 2024, Spring 2025
 
 Skills
 ======
-* Coding: Python, Java, C, LaTeX, Github, R, Pandas, matplotlib, Git, NetworkX, Jupyter Notebooks
-* Math: Computational Optimal Transport, Linear Algebra, Real Analysis, Graph Theory, Measure Theory
-* Soft skills: Teamwork, Scientific Communication, Academic Writing, Literature Review
+* Languages: Python, Java, C, Haskell, R
+* Tools & Libraries: LaTeX, NumPy, Pandas, matplotlib, NetworkX, Jupyter
+* Soft skills: Collaboration & Teamwork, Communication, Adaptability, Academic Writing, Literature Review
+
+Relevant Coursework
+======
+Smooth Optimization    Distributioned Optimization    Probability Theory    Honors Linear Algebra  
+Computer Systems       Programming Languages          Program Design        Computer Organization
