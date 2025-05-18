@@ -103,5 +103,7 @@ Skills
 
 Relevant Coursework
 ======
+```
 Smooth Optimization    Distributioned Optimization    Probability Theory    Honors Linear Algebra  
 Computer Systems       Programming Languages          Program Design        Computer Organization
+```
