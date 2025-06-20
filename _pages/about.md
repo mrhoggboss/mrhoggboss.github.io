@@ -13,4 +13,6 @@ Outside of research, I’m a TA and [Peer Educator](https://oasus.rice.edu/peer-
 
 news
 ------
-**May 11, 2025** This site is created, and my first [blog post](https://mrhoggboss.github.io/posts/2025/05/my-personal-journey-on-research-and-value-generation/) is up!
+**May 11, 2025** This site is created, and my first [blog post](https://mrhoggboss.github.io/posts/2025/05/my-personal-journey-on-research-and-value-generation/) is up!  
+
+**May 17, 2025** My second [blog post about my journey studying Go](https://mrhoggboss.github.io/posts/2025/05/go-the-fear-of-fefeat-and-the-spirit-of-the-middle/) is up!

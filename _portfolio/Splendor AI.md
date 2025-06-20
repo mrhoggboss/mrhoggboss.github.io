@@ -1,5 +1,5 @@
 ---
-title: "Splendor AI"
+title: "Splendor AI (Work in progress)"
 excerpt: "An AI that plays the board game Splendor really well<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
