@@ -13,6 +13,8 @@ Outside of research, I’m a TA and [Peer Educator](https://oasus.rice.edu/peer-
 
 news
 ------
+**March 2, 2026** My paper [Wasserstein Motifs: Non-deterministic Alignment of Ecological Networks](https://openreview.net/forum?id=ys92oWSFiB&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FWorkshop%2FLMRL%2FAuthors%23your-submissions)) has been accepted at the Learning Meaningful Representations of Life (LMRL) Workshop at ICLR 2026!
+
 **Feb 14, 2026** My [blog post about vibe writing](https://mrhoggboss.github.io/posts/2026/02/vibe-writing/) is up! 
 
 **Jan 17, 2026**  My paper [Identifying common backbones of interactions underlying food webs via non-deterministic alignments](https://bpb-us-e1.wpmucdn.com/blogs.rice.edu/dist/6/11608/files/2026/01/Xu_et_al_ICASSP2026_Appendix.pdf) has been accepted at ICASSP 2026! Can't wait to visit Barcelona for the first time! 
