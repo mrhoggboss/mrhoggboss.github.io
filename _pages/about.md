@@ -13,7 +13,7 @@ Outside of research, I’m a TA and [Peer Educator](https://oasus.rice.edu/peer-
 
 news
 ------
-**March 2, 2026** My paper [Wasserstein Motifs: Non-deterministic Alignment of Ecological Networks](https://openreview.net/forum?id=ys92oWSFiB&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FWorkshop%2FLMRL%2FAuthors%23your-submissions)) has been accepted at the Learning Meaningful Representations of Life (LMRL) Workshop at ICLR 2026!
+**March 2, 2026** My paper [Wasserstein Motifs: Non-deterministic Alignment of Ecological Networks](https://openreview.net/forum?id=ys92oWSFiB&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FWorkshop%2FLMRL%2FAuthors%23your-submissions)) has been accepted at [the Learning Meaningful Representations of Life (LMRL) Workshop at ICLR 2026](https://www.lmrl.org/)!
 
 **Feb 25, 2026** My extended abstract [Enabling Workforce Intelligence through Occupational Taxonomy Alignment](https://mrhoggboss.github.io/files/Occupation_Translator_extended_abs.pdf) has been accepted for presentation at [2026 Network Science and Economics Conference](https://sites.google.com/view/nse2026/home)!
 
