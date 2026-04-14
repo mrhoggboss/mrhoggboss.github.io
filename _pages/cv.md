@@ -11,10 +11,10 @@ redirect_from:
 
 **PDF version:** [Download `CV_Yifan_Xu.pdf`]({{ "/CV_Yifan_Xu.pdf" | relative_url }})
 
-<object data="{{ '/CV_Yifan_Xu.pdf' | relative_url }}" type="application/pdf" width="100%" height="900">
+<object data="{{ 'files/CV_Yifan_Xu.pdf' | relative_url }}" type="application/pdf" width="100%" height="900">
   <p>
     Your browser can’t display PDFs inline.
-    <a href="{{ '/CV_Yifan_Xu.pdf' | relative_url }}">Download the PDF</a>.
+    <a href="{{ 'files/CV_Yifan_Xu.pdf' | relative_url }}">Download the PDF</a>.
   </p>
 </object>
 
