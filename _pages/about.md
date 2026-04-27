@@ -21,7 +21,7 @@ news
 
 **Feb 14, 2026** My [blog post about vibe writing](https://mrhoggboss.github.io/posts/2026/02/vibe-writing/) is up! 
 
-**Jan 17, 2026**  My paper [Identifying common backbones of interactions underlying food webs via non-deterministic alignments](https://mrhoggboss.github.io/files/WassMotif_ICASSP_with_app.pdf) has been accepted at [ICASSP 2026](https://2026.ieeeicassp.org/)! Can't wait to visit Barcelona for the first time! 
+**Jan 17, 2026**  My paper [Identifying common backbones of interactions underlying food webs via non-deterministic alignments](https://ieeexplore.ieee.org/document/11462837) has been accepted at [ICASSP 2026](https://2026.ieeeicassp.org/)! Can't wait to visit Barcelona for the first time! 
 
 **May 17, 2025** My second [blog post about my journey studying Go](https://mrhoggboss.github.io/posts/2025/05/go-the-fear-of-fefeat-and-the-spirit-of-the-middle/) is up!
 
