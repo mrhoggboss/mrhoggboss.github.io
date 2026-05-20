@@ -13,6 +13,8 @@ Outside of research, I’m a TA and [Peer Educator](https://oasus.rice.edu/peer-
 
 news
 ------
+**May 18th, 2026** I started my summer research internship at [Massachusetts Institute of Technology](https://www.mit.edu/), working with Professor [Sungho Shin](https://cheme.mit.edu/profile/sungho-shin/) on GPU-accelerated Method of Multipliers for Nonlinear Programming problems!
+
 **April 14, 2026** My extended abstract Enabling Workforce Intelligence through Occupational Taxonomy Alignment has been accepted for as a poster at [12th International Conference on Computational Social Science](https://ic2s2-2026.org/)!
 
 **March 2, 2026** My paper [Wasserstein Motifs: Non-deterministic Alignment of Ecological Networks](https://openreview.net/forum?id=ys92oWSFiB&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FWorkshop%2FLMRL%2FAuthors%23your-submissions)) has been accepted at [the Learning Meaningful Representations of Life (LMRL) Workshop at ICLR 2026](https://www.lmrl.org/)!
