@@ -13,10 +13,10 @@ research
 ------
 My research designs optimization methods — especially optimal transport and GPU-accelerated algorithms — and applies them across machine learning and the sciences. A full list is on my [research projects page](/projects/); current and past projects include:
  
-- **[Kernel-Agnostic Method of Multipliers for GPU-Accelerated Nonlinear Programming](/projects/method-of-multipliers/)** — GPU-friendly augmented-Lagrangian methods for large-scale constrained NLPs (with Sungho Shin, MIT).
-- **[GPU-Accelerated Bregman Douglas–Rachford Splitting for Discrete Optimal Transport](/projects/bregman-douglas-rachford/)** — a scalable first-order optimal-transport solver in fused CUDA (with Shiqian Ma).
-- **[Enabling Workforce Intelligence through Occupational Taxonomy Alignment](/projects/occupational-taxonomy-alignment/)** — aligning occupations across taxonomies via Fused Gromov–Wasserstein (with César A. Uribe and Isabella Loaiza).
-- **[Wasserstein Motifs: Optimal Transport for Ecological Network Alignment](/projects/wasserstein-motifs/)** — a rigorous, scalable framework for aligning food webs (with César A. Uribe and Lydia Beaudrot).
+- **[Kernel-Agnostic Method of Multipliers for GPU-Accelerated Nonlinear Programming](/projects/method-of-multipliers/)** — GPU-friendly augmented-Lagrangian methods for large-scale constrained NLPs.
+- **[GPU-Accelerated Bregman Douglas–Rachford Splitting for Discrete Optimal Transport](/projects/bregman-douglas-rachford/)** — a scalable first-order optimal-transport solver in fused CUDA.
+- **[Enabling Workforce Intelligence through Occupational Taxonomy Alignment](/projects/occupational-taxonomy-alignment/)** — aligning occupations across taxonomies via Fused Gromov–Wasserstein.
+- **[Wasserstein Motifs: Optimal Transport for Ecological Network Alignment](/projects/wasserstein-motifs/)** — a rigorous, scalable framework for aligning food webs.
 - **[Networked Competitive Bivirus SIS Models](/projects/bivirus-sis/)** — equilibrium analysis of two competing epidemics spreading over networks.
 <!-- - **[Evaluation of SSVEP Stimuli Design for Visual Field Assessment](/projects/ssvep/)** — stimulus-layout design for BCI-based vision assessment. -->
 
