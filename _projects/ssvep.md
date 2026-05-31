@@ -5,7 +5,7 @@ excerpt: "Designing and evaluating SSVEP stimulus layouts for objective, BCI-bas
 order: 6
 ---
 
-**Status:** Published — 2022 International Conference on Cyberworlds (CW) &middot; **Co-author:** Aung Aung Phyo Wai (Nanyang Technological University) &middot; **Affiliation:** National University of Singapore High School of Mathematics and Science
+**Status:** Published — 2022 International Conference on Cyberworlds (CW) &middot; **Co-author:** [Aung Aung Phyo Wai](https://scholar.google.com/citations?user=MdrjFJEAAAAJ&hl=en) &middot; **Affiliation:** National University of Singapore High School of Mathematics and Science & Nanyang Technological University
 
 Steady-State Visual Evoked Potential (SSVEP) brain–computer interfaces can leverage frequency-tagged responses from the visual cortex not only for communication but also for vision assessment — including early detection of visual-field loss from diseases such as glaucoma. However, stimulus designs optimized for visual spellers differ substantially from what visual-field assessment requires, and prior to this work no study had evaluated SSVEP stimulus designs specifically for discriminating abnormal from normal visual fields.
 

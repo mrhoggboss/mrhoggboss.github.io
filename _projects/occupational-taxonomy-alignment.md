@@ -5,7 +5,7 @@ excerpt: "Aligning occupations across taxonomies via Fused Gromov–Wasserstein 
 order: 3
 ---
 
-**Status:** Ongoing (since August 2025) &middot; **Advisors:** [César A. Uribe](https://cauribe.rice.edu/), Isabella Loaiza-Saa &middot; **Affiliations:** Rice University & Massachusetts Institute of Technology
+**Status:** Ongoing (since August 2025) &middot; **Advisors:** [César A. Uribe](https://cauribe.rice.edu/), [Isabella Loaiza-Saa](https://www.isabellaloaiza.com/) &middot; **Affiliations:** Rice University & Massachusetts Institute of Technology
 
 Labor-market analysis increasingly relies on synthesizing data across non-comparable occupational taxonomies, and the resulting fragmentation makes it hard to measure equivalence and change, coordinate across global organizations, and compare occupations under technological change. We introduce a network-based occupational translator that represents each occupation as a structured collection of tasks embedded in a global task meta-network, with task relationships estimated via marginal co-occurrence or sparse inverse-covariance (graph-lasso) models.
 

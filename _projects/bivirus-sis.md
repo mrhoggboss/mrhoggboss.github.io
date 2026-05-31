@@ -5,7 +5,7 @@ excerpt: "Equilibrium analysis and simulation of two competing viruses spreading
 order: 5
 ---
 
-**Status:** Paper under review (IEEE Open Journal of Control Systems) &middot; **Collaborators:** Sebin J. Gracy, Ji Liu, Tamer Başar, [César A. Uribe](https://cauribe.rice.edu/) &middot; **Affiliation:** Rice University
+**Status:** Paper under review (IEEE Open Journal of Control Systems) &middot; **Collaborators:** [Sebin J. Gracy](https://sites.google.com/view/sebinjosegracy/home), [Ji Liu](https://sites.google.com/site/jiliucontrol), [Tamer Başar](https://tamerbasar.csl.illinois.edu/), [César A. Uribe](https://cauribe.rice.edu/) &middot; **Affiliation:** Rice University
 
 We analyze a discrete-time, networked, competitive bivirus susceptible–infected–susceptible (SIS) model in which two viruses spread and compete across a meta-population. The system admits three kinds of equilibria — the disease-free equilibrium, single-virus endemic equilibria (one virus persists while the other dies out), and coexistence equilibria (both persist).
 
