@@ -1,14 +1,15 @@
 ---
 layout: archive
-title: "Projects"
+title: "Research Projects"
 permalink: /projects/
 author_profile: true
 ---
 
 {% include base_path %}
 
+<p>Selected research projects, newest first. Each page links to the associated papers, talks, slides, and code.</p>
 
-{% for post in site.portfolio %}
+{% assign projects = site.projects | sort: "order" %}
+{% for post in projects %}
   {% include archive-single.html %}
 {% endfor %}
-

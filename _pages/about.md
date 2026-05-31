@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Yifan Xu, a junior at [Rice University](https://www.rice.edu/) majoring in Operations Research, Computer Science and Mathematics. I am broadly interested in optimization for machine learning applications. I am working with Professor [César A. Uribe](https://cauribe.rice.edu/) on optimization-based modeling and analysis of large-scale networked systems, with applications on [ecological networks](https://openreview.net/forum?id=ys92oWSFiB&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FWorkshop%2FLMRL%2FAuthors%23your-submissions)), [occupation taxonomies](https://mrhoggboss.github.io/files/Occupation_Translator_extended_abs.pdf), and [epidemics](https://mrhoggboss.github.io/publication/2024-11-08-SIS_Virus). I am also working with Professor [Shiqian Ma](https://sqma.rice.edu/) on a GPU-accelerated first order method for the (Kantorovich) Discrete Optimal Transport problem.
+Hi! I’m Yifan Xu, a rising senior at [Rice University](https://www.rice.edu/) majoring in Operations Research, Computer Science and Mathematics. I am broadly interested in optimization for machine learning applications. I am working with Professor [César A. Uribe](https://cauribe.rice.edu/) on optimization-based modeling and analysis of large-scale networked systems, with applications on [ecological networks](/projects/wasserstein-motifs/), [occupation taxonomies](/projects/occupational-taxonomy-alignment/), and [epidemics](/projects/bivirus-sis/). I am also working with Professor [Shiqian Ma](https://sqma.rice.edu/) on a [GPU-accelerated first order method](/projects/bregman-douglas-rachford/) for the (Kantorovich) Discrete Optimal Transport problem.
 
 Outside of research, I’m a TA and [Peer Educator](https://oasus.rice.edu/peer-educator-program) in both Math and CS departments and love helping others understand mathematical ideas. I also enjoy playing basketball, Go, and all sorts of board games. A recent favorite of mine is [The Castles of Burgundy](https://boardgamegeek.com/boardgame/84876/the-castles-of-burgundy).
 
@@ -27,4 +27,4 @@ news
 
 **May 17, 2025** My second [blog post about my journey studying Go](https://mrhoggboss.github.io/posts/2025/05/go-the-fear-of-fefeat-and-the-spirit-of-the-middle/) is up!
 
-**May 11, 2025** This site is created, and my first [blog post](https://mrhoggboss.github.io/posts/2025/05/my-personal-journey-on-research-and-value-generation/) is up!  
+**May 11, 2025** This site is created, and my first [blog post](https://mrhoggboss.github.io/posts/2025/05/my-personal-journey-on-research-and-value-generation/) is up!
