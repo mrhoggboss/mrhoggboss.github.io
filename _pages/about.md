@@ -9,6 +9,17 @@ redirect_from:
 
 Hi! I’m Yifan Xu, a rising senior at [Rice University](https://www.rice.edu/) majoring in Operations Research, Computer Science and Mathematics. I am broadly interested in optimization for machine learning applications. I am working with Professor [César A. Uribe](https://cauribe.rice.edu/) on optimization-based modeling and analysis of large-scale networked systems, with applications on [ecological networks](/projects/wasserstein-motifs/), [occupation taxonomies](/projects/occupational-taxonomy-alignment/), and [epidemics](/projects/bivirus-sis/). I am also working with Professor [Shiqian Ma](https://sqma.rice.edu/) on a [GPU-accelerated first order method](/projects/bregman-douglas-rachford/) for the (Kantorovich) Discrete Optimal Transport problem.
 
+research
+------
+My research designs optimization methods — especially optimal transport and GPU-accelerated algorithms — and applies them across machine learning and the sciences. A full list is on my [research projects page](/projects/); current and past projects include:
+ 
+- **[Kernel-Agnostic Method of Multipliers for GPU-Accelerated Nonlinear Programming](/projects/method-of-multipliers/)** — GPU-friendly augmented-Lagrangian methods for large-scale constrained NLPs (with Sungho Shin, MIT).
+- **[GPU-Accelerated Bregman Douglas–Rachford Splitting for Discrete Optimal Transport](/projects/bregman-douglas-rachford/)** — a scalable first-order optimal-transport solver in fused CUDA (with Shiqian Ma).
+- **[Enabling Workforce Intelligence through Occupational Taxonomy Alignment](/projects/occupational-taxonomy-alignment/)** — aligning occupations across taxonomies via Fused Gromov–Wasserstein (with César A. Uribe and Isabella Loaiza).
+- **[Wasserstein Motifs: Optimal Transport for Ecological Network Alignment](/projects/wasserstein-motifs/)** — a rigorous, scalable framework for aligning food webs (with César A. Uribe and Lydia Beaudrot).
+- **[Networked Competitive Bivirus SIS Models](/projects/bivirus-sis/)** — equilibrium analysis of two competing epidemics spreading over networks.
+<!-- - **[Evaluation of SSVEP Stimuli Design for Visual Field Assessment](/projects/ssvep/)** — stimulus-layout design for BCI-based vision assessment. -->
+
 Outside of research, I’m a TA and [Peer Educator](https://oasus.rice.edu/peer-educator-program) in both Math and CS departments and love helping others understand mathematical ideas. I also enjoy playing basketball, Go, and all sorts of board games. A recent favorite of mine is [The Castles of Burgundy](https://boardgamegeek.com/boardgame/84876/the-castles-of-burgundy).
 
 news
