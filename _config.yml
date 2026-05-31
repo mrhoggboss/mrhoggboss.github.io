@@ -25,7 +25,7 @@ author:
   avatar           : "myPhoto.jpg" # filename of avatar image placed in /images/, e.g. "500x300.png"
   name             : "Yifan Xu"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "Undergraduate student interested in Optimal Transport, Machine Learning and Network Science."
+  bio              : "Undergraduate student interested in designing optimization algorithms and writing high-performance implementations to solve large-scale linear and nonlinear programming problems."
   location         : "Houston, Texas"
   employer         : "Rice University"
   uri              : # URL
