@@ -17,4 +17,4 @@ Accepted at the 11th Annual Conference on Network Science and Economics (Miami, 
 
 - Extended abstract (PDF): [Enabling Workforce Intelligence through Occupational Taxonomy Alignment](/files/Occupation_Translator_extended_abs.pdf)
 - [Poster](https://docs.google.com/presentation/d/1woRKv2qhqBHM-L60XF3BB8wjdLbXCA3E/edit) — IC2S2 2026 / Network Science and Economics 2026
-- [Slides](https://drive.google.com/file/d/1Rsz3OW7BK2tSLpCT7rMiNBQStVXw8gGJ/view) — Economic & Financial Networks @ NetSci 2026 (oral presentation)
+- [Slides](https://drive.google.com/file/d/1Ze1hTqpz7YLdBcUQO3cCO8yhQ5X2XLMd/view?usp=sharing) — Economic & Financial Networks @ NetSci 2026 (oral presentation)
