@@ -14,6 +14,6 @@ We give a first rigorous formalization of food web alignment based on network mo
 **Materials**
 
 - Conference paper — *Identifying Common Backbones of Interactions Underlying Food Webs via Non-Deterministic Alignments*, ICASSP 2026: [IEEE Xplore](https://ieeexplore.ieee.org/document/11462837) ([DOI](https://doi.org/10.1109/ICASSP55912.2026.11462837)) &middot; [author copy with appendix (PDF)](/files/WassMotif_ICASSP_with_app.pdf)
-- Extended manuscript — *Wasserstein Motifs: Non-deterministic Alignment of Ecological Networks*, LMRL Workshop @ ICLR 2026 (oral, non-archival): [OpenReview](https://openreview.net/forum?id=ys92oWSFiB)
+- Extended manuscript — *Wasserstein Motifs: Non-deterministic Alignment of Ecological Networks*, LMRL Workshop @ ICLR 2026 (oral, non-archival): [ICLR Virtual](https://iclr.cc/virtual/2026/10017640)
 - [Slides](https://drive.google.com/file/d/1Rm1sPLYEd6ZFSrDLmz8hKLddOFoUy5cL/view) — INFORMS Optimization Society Conference 2026 (oral presentation)
 - [Poster (PDF)](/files/Wasserstein_Motifs_TL;DR_Conference_Poster.pdf) — ICASSP 2026 / Texas Colloquium on Distributed Learning

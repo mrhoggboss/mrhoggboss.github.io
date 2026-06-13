@@ -28,7 +28,7 @@ news
 
 **April 14, 2026** My extended abstract Enabling Workforce Intelligence through Occupational Taxonomy Alignment has been accepted for as a poster at [12th International Conference on Computational Social Science](https://ic2s2-2026.org/)!
 
-**March 2, 2026** My paper [Wasserstein Motifs: Non-deterministic Alignment of Ecological Networks](https://openreview.net/forum?id=ys92oWSFiB&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FWorkshop%2FLMRL%2FAuthors%23your-submissions)) has been accepted at [the Learning Meaningful Representations of Life (LMRL) Workshop at ICLR 2026](https://www.lmrl.org/)!
+**March 2, 2026** My paper [Wasserstein Motifs: Non-deterministic Alignment of Ecological Networks](https://iclr.cc/virtual/2026/10017640) has been accepted at [the Learning Meaningful Representations of Life (LMRL) Workshop at ICLR 2026](https://www.lmrl.org/)!
 
 **Feb 25, 2026** My extended abstract [Enabling Workforce Intelligence through Occupational Taxonomy Alignment](https://mrhoggboss.github.io/files/Occupation_Translator_extended_abs.pdf) has been accepted for presentation at [2026 Network Science and Economics Conference](https://sites.google.com/view/nse2026/home)!
 
