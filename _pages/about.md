@@ -39,3 +39,5 @@ news
 **May 17, 2025** My second [blog post about my journey studying Go](https://mrhoggboss.github.io/posts/2025/05/go-the-fear-of-fefeat-and-the-spirit-of-the-middle/) is up!
 
 **May 11, 2025** This site is created, and my first [blog post](https://mrhoggboss.github.io/posts/2025/05/my-personal-journey-on-research-and-value-generation/) is up!
+
+{% include mapmyvisitors.html %}
