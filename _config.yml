@@ -152,6 +152,11 @@ analytics:
   google:
     tracking_id          :
 
+# Visitor map widget (MapMyVisitors, formerly ClustrMaps)
+mapmyvisitors:
+  enabled                :  true
+  id                     :  "AARvVC_u-05L_kRFh8M0Hcqy9e7AP5tKIrTBzERFWwI"
+
 
 # Reading Files
 include:
