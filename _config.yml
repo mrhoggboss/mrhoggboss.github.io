@@ -34,9 +34,9 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=0OeQgPIAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : 
+  orcid            : "https://orcid.org/0009-0004-7759-051X"
   semantic         : # URL
   pubmed           : 
   researchgate     : # URL
@@ -151,6 +151,11 @@ analytics:
   provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
+
+# Visitor map widget (MapMyVisitors, formerly ClustrMaps)
+mapmyvisitors:
+  enabled                :  true
+  id                     :  "UPPJdoGJhi3k317ZQFgFr8wiiXSSqF6qrDuRJ9GotvE"
 
 
 # Reading Files

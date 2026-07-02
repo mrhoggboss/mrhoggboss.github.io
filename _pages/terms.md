@@ -37,3 +37,7 @@ If you wish to disable cookies, you may do so through your web browser options. 
 #### Google Analytics
 
 Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
+
+#### MapMyVisitors
+
+This site displays a visitor map widget provided by [MapMyVisitors](https://www.mapmyvisitors.com/) (formerly ClustrMaps). It uses your IP address to approximate the geographic location (e.g., city or country) from which you access the site, and shows an aggregate count of visitors. It does not identify you individually. You can read the [MapMyVisitors Privacy Policy](https://www.mapmyvisitors.com/privacy/).
