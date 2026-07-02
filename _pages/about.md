@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Yifan Xu, a rising senior at [Rice University](https://www.rice.edu/) majoring in Operations Research, Computer Science and Mathematics. I am broadly interested in optimization for machine learning applications. I am working with Professor [César A. Uribe](https://cauribe.rice.edu/) on optimization-based modeling and analysis of large-scale networked systems, with applications on [ecological networks](/projects/wasserstein-motifs/), [occupation taxonomies](/projects/occupational-taxonomy-alignment/), and [epidemics](/projects/bivirus-sis/). I am also working with Professor [Shiqian Ma](https://https://shiqianma.github.io/) on a [GPU-accelerated first order method](/projects/bregman-douglas-rachford/) for the (Kantorovich) Discrete Optimal Transport problem.
+Hi! I’m Yifan Xu, a rising senior at [Rice University](https://www.rice.edu/) majoring in Operations Research, Computer Science and Mathematics. I am broadly interested in optimization for machine learning applications. I am working with Professor [César A. Uribe](https://cauribe.rice.edu/) on optimization-based modeling and analysis of large-scale networked systems, with applications on [ecological networks](/projects/wasserstein-motifs/), [occupation taxonomies](/projects/occupational-taxonomy-alignment/), and [epidemics](/projects/bivirus-sis/). I am also working with Professor [Shiqian Ma](https://shiqianma.github.io/) on a [GPU-accelerated first order method](/projects/bregman-douglas-rachford/) for the (Kantorovich) Discrete Optimal Transport problem.
 
 research
 ------
