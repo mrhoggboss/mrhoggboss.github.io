@@ -30,7 +30,9 @@ news
 
 **May 18th, 2026** I started my summer research internship at [Massachusetts Institute of Technology](https://www.mit.edu/), working with Professor [Sungho Shin](https://cheme.mit.edu/profile/sungho-shin/) on GPU-accelerated Method of Multipliers for Nonlinear Programming problems!
 
-**April 11th, 2026** I gave a in-person poster presentation on my work [Enabling Workforce Intelligence through Occupational Taxonomy Alignment](/projects/occupational-taxonomy-alignment/) at the [2026 Network Science and Economics Conference](https://sites.google.com/view/nse2026/home) in Miami, FL!
+**April 11th, 2026** I gave an in-person poster presentation on my work [Enabling Workforce Intelligence through Occupational Taxonomy Alignment](/projects/occupational-taxonomy-alignment/) at the [2026 Network Science and Economics Conference](https://sites.google.com/view/nse2026/home) in Miami, FL!
+
+**March 20th, 2026** I gave an in-person oral presentation on my work [Wasserstein Motifs: Non-deterministic Alignment of Ecological Networks](/projects/wasserstein-motifs/) at the [2026 INFORMS Optimization Society Conference](https://ios2026.isye.gatech.edu/) in Atlanta, GA!
 
 **March 2, 2026** My paper [Wasserstein Motifs: Non-deterministic Alignment of Ecological Networks](https://iclr.cc/virtual/2026/10017640) has been accepted as an **oral presentation** at [the Learning Meaningful Representations of Life (LMRL) Workshop at ICLR 2026](https://www.lmrl.org/)!
 

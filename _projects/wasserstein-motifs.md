@@ -5,7 +5,7 @@ excerpt: "A rigorous, scalable optimal-transport framework for aligning food web
 order: 4
 ---
 
-**Status:** Ongoing (since May 2024) &middot; **Advisors:** [César A. Uribe](https://cauribe.rice.edu/), [Lydia Beaudrot](https://lydiabeaudrot.weebly.com/) &middot; **Affiliations:** Rice University & Michigan State University
+**Status:** Extended manuscript under preparation &middot; **Advisors:** [César A. Uribe](https://cauribe.rice.edu/), [Lydia Beaudrot](https://lydiabeaudrot.weebly.com/) &middot; **Affiliations:** Rice University & Michigan State University
 
 We study ecological network (food web) alignment: identifying structural equivalences among species and uncovering *backbones of interactions* that represent shared functional substructures. Existing approaches are computationally expensive, hard to scale, and difficult to interpret ecologically.
 
