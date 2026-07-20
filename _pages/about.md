@@ -24,13 +24,15 @@ Outside of research, I’m a TA and [Peer Educator](https://oasus.rice.edu/peer-
 
 news
 ------
+**July 21st, 2026** I gave a virtual oral presentation on my work [Enabling Workforce Intelligence through Occupational Taxonomy Alignment](/projects/occupational-taxonomy-alignment/) at the [12th International Conference on computational Social Science](https://ic2s2-2026.org/)!
+
+**June 2nd, 2026** I gave an in-person oral presentation on my work [Enabling Workforce Intelligence through Occupational Taxonomy Alignment](/projects/occupational-taxonomy-alignment/) in the [FinEcoNets Workshop](https://sites.google.com/view/fineconets-netsci2026/) at the [Internation School & Conference on Network Science 2026](https://www.netsci2026.com/) in Boston, MA!
+
 **May 18th, 2026** I started my summer research internship at [Massachusetts Institute of Technology](https://www.mit.edu/), working with Professor [Sungho Shin](https://cheme.mit.edu/profile/sungho-shin/) on GPU-accelerated Method of Multipliers for Nonlinear Programming problems!
 
-**April 14, 2026** My extended abstract Enabling Workforce Intelligence through Occupational Taxonomy Alignment has been accepted for as a poster at [12th International Conference on Computational Social Science](https://ic2s2-2026.org/)!
+**April 11th, 2026** I gave a in-person poster presentation on my work [Enabling Workforce Intelligence through Occupational Taxonomy Alignment](/projects/occupational-taxonomy-alignment/) at the [2026 Network Science and Economics Conference](https://sites.google.com/view/nse2026/home) in Miami, FL!
 
 **March 2, 2026** My paper [Wasserstein Motifs: Non-deterministic Alignment of Ecological Networks](https://iclr.cc/virtual/2026/10017640) has been accepted as an **oral presentation** at [the Learning Meaningful Representations of Life (LMRL) Workshop at ICLR 2026](https://www.lmrl.org/)!
-
-**Feb 25, 2026** My extended abstract [Enabling Workforce Intelligence through Occupational Taxonomy Alignment](https://mrhoggboss.github.io/files/Occupation_Translator_extended_abs.pdf) has been accepted for presentation at [2026 Network Science and Economics Conference](https://sites.google.com/view/nse2026/home)!
 
 **Feb 14, 2026** My [blog post about vibe writing](https://mrhoggboss.github.io/posts/2026/02/vibe-writing/) is up! 
 
