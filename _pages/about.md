@@ -24,6 +24,8 @@ Outside of research, I’m a TA and [Peer Educator](https://oasus.rice.edu/peer-
 
 news
 ------
+**August 2nd, 2026** I am traveling to Saarbrücken, Germany to attend the [Cornell, Maryland, Max Planck Pre-doctoral Research School in Computer Science](https://cmmrs.mpi-sws.org/)! Can't wait to meet the peers and mentors there!
+
 **July 21st, 2026** I gave a virtual oral presentation on my work [Enabling Workforce Intelligence through Occupational Taxonomy Alignment](/projects/occupational-taxonomy-alignment/) at the [12th International Conference on computational Social Science](https://ic2s2-2026.org/)!
 
 **June 2nd, 2026** I gave an in-person oral presentation on my work [Enabling Workforce Intelligence through Occupational Taxonomy Alignment](/projects/occupational-taxonomy-alignment/) in the [FinEcoNets Workshop](https://sites.google.com/view/fineconets-netsci2026/) at the [Internation School & Conference on Network Science 2026](https://www.netsci2026.com/) in Boston, MA!
