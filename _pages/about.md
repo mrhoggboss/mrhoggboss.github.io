@@ -20,7 +20,7 @@ My research designs optimization methods — especially optimal transport and GP
 - **[Networked Competitive Bivirus SIS Models](/projects/bivirus-sis/)** — equilibrium analysis of two competing epidemics spreading over networks.
 <!-- - **[Evaluation of SSVEP Stimuli Design for Visual Field Assessment](/projects/ssvep/)** — stimulus-layout design for BCI-based vision assessment. -->
 
-Outside of research, I’m a TA and [Peer Educator](https://oasus.rice.edu/peer-educator-program) in both Math and CS departments and love helping others understand mathematical ideas. I also enjoy playing basketball, Go, and all sorts of board games. A recent favorite of mine is [The Castles of Burgundy](https://boardgamegeek.com/boardgame/84876/the-castles-of-burgundy).
+Outside of research, I’m a TA and [Peer Educator](https://oasus.rice.edu/peer-educator-program) in both Math and CS departments and love helping others understand mathematical ideas. I also enjoy playing basketball, Go, and all sorts of board games. A more recent hobby is exploring ramen spots. My favorite ramen spot in Cambridge is [Tsurumen](https://www.tsurumendavis.com/).
 
 news
 ------
