@@ -24,6 +24,8 @@ Outside of research, I’m a TA and [Peer Educator](https://oasus.rice.edu/peer-
 
 news
 ------
+**September 1st, 2026** Our paper [Networked Competitive Bivirus SIS Model: Analysis of the Discrete-Time Case](/projects/bivirus-sis/) has been accepted to the Open Journal of Control Systems (OJ-CSYS)!
+
 **August 2nd, 2026** I am traveling to Saarbrücken, Germany to attend the [Cornell, Maryland, Max Planck Pre-doctoral Research School in Computer Science](https://cmmrs.mpi-sws.org/)! Can't wait to meet the peers and mentors there!
 
 **July 21st, 2026** I gave a virtual oral presentation on my work [Enabling Workforce Intelligence through Occupational Taxonomy Alignment](/projects/occupational-taxonomy-alignment/) at the [12th International Conference on computational Social Science](https://ic2s2-2026.org/)!

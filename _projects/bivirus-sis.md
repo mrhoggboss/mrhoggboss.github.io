@@ -5,7 +5,7 @@ excerpt: "Equilibrium analysis and simulation of two competing viruses spreading
 order: 5
 ---
 
-**Status:** Paper under review (IEEE Open Journal of Control Systems) &middot; **Collaborators:** [Sebin J. Gracy](https://sites.google.com/view/sebinjosegracy/home), [Ji Liu](https://sites.google.com/site/jiliucontrol), [Tamer Başar](https://tamerbasar.csl.illinois.edu/), [César A. Uribe](https://cauribe.rice.edu/) &middot; **Affiliation:** Rice University
+**Status:** Paper accepted at the IEEE Open Journal of Control Systems (OJ-CSYS) &middot; **Collaborators:** [Sebin J. Gracy](https://sites.google.com/view/sebinjosegracy/home), [Ji Liu](https://sites.google.com/site/jiliucontrol), [Tamer Başar](https://tamerbasar.csl.illinois.edu/), [César A. Uribe](https://cauribe.rice.edu/) &middot; **Affiliation:** Rice University
 
 We analyze a discrete-time, networked, competitive bivirus susceptible–infected–susceptible (SIS) model in which two viruses spread and compete across a meta-population. The system admits three kinds of equilibria — the disease-free equilibrium, single-virus endemic equilibria (one virus persists while the other dies out), and coexistence equilibria (both persist).
 
@@ -13,5 +13,5 @@ We show the model is strongly monotone and, under suitable assumptions, admits n
 
 **Materials**
 
-- Paper — *Networked Competitive Bivirus SIS Model: Analysis of the Discrete-Time Case* (with S. J. Gracy, J. Liu, T. Başar, C. A. Uribe): under review at the IEEE Open Journal of Control Systems.
+- Paper — *Networked Competitive Bivirus SIS Model: Analysis of the Discrete-Time Case* (with S. J. Gracy, J. Liu, T. Başar, C. A. Uribe): accepted at the IEEE Open Journal of Control Systems (OJ-CSYS).
 - Slides — Gulf Coast Undergraduate Research Symposium 2024 (oral presentation): [PDF](/files/GCURS_Presentation_Yifan.pdf) &middot; [Google Slides](https://docs.google.com/presentation/d/1hiqXF33uYOM-3_6rCZRIR--77XziGeF5PNyIvSseZRo/edit) &middot; [abstract](/publication/2024-11-08-SIS_Virus)
