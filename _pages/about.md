@@ -24,7 +24,9 @@ Outside of research, I’m a TA and [Peer Educator](https://oasus.rice.edu/peer-
 
 news
 ------
-**September 1st, 2026** Our paper [Networked Competitive Bivirus SIS Model: Analysis of the Discrete-Time Case](/projects/bivirus-sis/) has been accepted to the Open Journal of Control Systems (OJ-CSYS)!
+**September 17th, 2026** My [blog post on what it means to be East Asian](/posts/2026/09/east-asia-and-i/) is up!
+
+**September 1st, 2026** Our paper [Networked Competitive Bivirus SIS Model: Analysis of the Discrete-Time Case](https://doi.org/10.1109/OJCSYS.2026.3733517) has been accepted to the Open Journal of Control Systems (OJ-CSYS)!
 
 **August 2nd, 2026** I am traveling to Saarbrücken, Germany to attend the [Cornell, Maryland, Max Planck Pre-doctoral Research School in Computer Science](https://cmmrs.mpi-sws.org/)! Can't wait to meet the peers and mentors there!
 
