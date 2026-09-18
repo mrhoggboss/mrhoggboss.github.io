@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Yifan Xu, a senior at [Rice University](https://www.rice.edu/) majoring in Operations Research, Computer Science and Mathematics. I am broadly interested in optimization for machine learning applications. I am working with Professor [César A. Uribe](https://cauribe.rice.edu/) on optimization-based modeling and analysis of large-scale networked systems, with applications on [ecological networks](/projects/wasserstein-motifs/), [occupation taxonomies](/projects/occupational-taxonomy-alignment/), and [epidemics](/projects/bivirus-sis/). I am also working with Professor [Shiqian Ma](https://shiqianma.github.io/) on a [GPU-accelerated first order method](/projects/bregman-douglas-rachford/) for the (Kantorovich) Discrete Optimal Transport problem.
+Hi! I’m Yifan Xu, a senior at [Rice University](https://www.rice.edu/) majoring in Operations Research, Computer Science and Mathematics. I am broadly interested in optimization for machine learning applications. I am currently working with Professor [Shiqian Ma](https://shiqianma.github.io/) on a [GPU-accelerated first order method](/projects/bregman-douglas-rachford/) for the (Kantorovich) Discrete Optimal Transport problem, and with Professor [Sungho Shin](https://cheme.mit.edu/profile/sungho-shin/) on [general-kernel augmented Lagrangian methods](/projects/method-of-multipliers/) for large-scale, degenerate nonlinear programming on GPUs. Previously, I worked with Professor [César A. Uribe](https://cauribe.rice.edu/) on optimization-based modeling and analysis of large-scale networked systems, with applications on [ecological networks](/projects/wasserstein-motifs/), [occupation taxonomies](/projects/occupational-taxonomy-alignment/), and [epidemics](/projects/bivirus-sis/).
 
 research
 ------
 My research designs optimization methods — especially optimal transport and GPU-accelerated algorithms — and applies them across machine learning and the sciences. A full list is on my [research projects page](/projects/); current and past projects include:
  
-- **[Kernel-Agnostic Method of Multipliers for GPU-Accelerated Nonlinear Programming](/projects/method-of-multipliers/)** — GPU-friendly augmented-Lagrangian methods for large-scale constrained NLPs.
+- **[General-Kernel Augmented Lagrangian Methods for GPU-Accelerated Nonlinear Programming](/projects/method-of-multipliers/)** — GPU-friendly augmented-Lagrangian methods for large-scale, degenerate NLPs.
 - **[GPU-Accelerated Bregman Douglas–Rachford Splitting for Discrete Optimal Transport](/projects/bregman-douglas-rachford/)** — a scalable first-order optimal-transport solver in fused CUDA.
 - **[Enabling Workforce Intelligence through Occupational Taxonomy Alignment](/projects/occupational-taxonomy-alignment/)** — aligning occupations across taxonomies via Fused Gromov–Wasserstein.
 - **[Wasserstein Motifs: Optimal Transport for Ecological Network Alignment](/projects/wasserstein-motifs/)** — a rigorous, scalable framework for aligning food webs.
