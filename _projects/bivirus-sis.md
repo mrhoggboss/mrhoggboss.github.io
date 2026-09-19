@@ -13,5 +13,5 @@ We show the model is strongly monotone and, under suitable assumptions, admits n
 
 **Materials**
 
-- Paper — *Networked Competitive Bivirus SIS Model: Analysis of the Discrete-Time Case* (with S. J. Gracy, J. Liu, T. Başar, C. A. Uribe), IEEE Open Journal of Control Systems (OJ-CSYS), Early Access: [IEEE Xplore](https://ieeexplore.ieee.org/document/11689862) ([DOI](https://doi.org/10.1109/OJCSYS.2026.3733517))
+- Paper — *Networked Competitive Bivirus SIS Model: Analysis of the Discrete-Time Case* (with S. J. Gracy, J. Liu, T. Başar, C. A. Uribe), IEEE Open Journal of Control Systems (OJ-CSYS), Early Access: [IEEE Xplore](https://ieeexplore.ieee.org/document/11689862)
 - Slides — Gulf Coast Undergraduate Research Symposium 2024 (oral presentation): [PDF](/files/GCURS_Presentation_Yifan.pdf) &middot; [Google Slides](https://docs.google.com/presentation/d/1hiqXF33uYOM-3_6rCZRIR--77XziGeF5PNyIvSseZRo/edit) &middot; [abstract](/publication/2024-11-08-SIS_Virus)
