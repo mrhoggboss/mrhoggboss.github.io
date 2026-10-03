@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**PDF version:** [Download `CV_Yifan_Xu.pdf`]({{ "/CV_Yifan_Xu.pdf" | relative_url }})
+**PDF version:** [Download `CV_Yifan_Xu.pdf`]({{ "/files/CV_Yifan_Xu.pdf" | relative_url }})
 
 <object data="{{ 'files/CV_Yifan_Xu.pdf' | relative_url }}" type="application/pdf" width="100%" height="900">
   <p>
