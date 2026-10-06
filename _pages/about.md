@@ -24,6 +24,8 @@ Outside of research, I’m a TA and [Peer Educator](https://oasus.rice.edu/peer-
 
 news
 ------
+**October 6th, 2026** My work [GPU-Accelerated Bregman Douglas–Rachford Splitting for Discrete Optimal Transport](https://arxiv.org/abs/2610.04715) is now available as a preprint on arXiv!
+
 **September 17th, 2026** My [blog post about my experience growing up as an East Asian](/posts/2026/09/east-asia-and-i/) is up!
 
 **September 1st, 2026** Our paper [Networked Competitive Bivirus SIS Model: Analysis of the Discrete-Time Case](https://ieeexplore.ieee.org/document/11689862) has been accepted to the Open Journal of Control Systems (OJ-CSYS)!
