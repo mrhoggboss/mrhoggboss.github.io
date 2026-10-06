@@ -18,7 +18,6 @@ My research designs optimization methods — especially optimal transport and GP
 - **[Enabling Workforce Intelligence through Occupational Taxonomy Alignment](/projects/occupational-taxonomy-alignment/)** — aligning occupations across taxonomies via Fused Gromov–Wasserstein.
 - **[Wasserstein Motifs: Optimal Transport for Ecological Network Alignment](/projects/wasserstein-motifs/)** — a rigorous, scalable framework for aligning food webs.
 - **[Networked Competitive Bivirus SIS Models](/projects/bivirus-sis/)** — equilibrium analysis of two competing epidemics spreading over networks.
-<!-- - **[Evaluation of SSVEP Stimuli Design for Visual Field Assessment](/projects/ssvep/)** — stimulus-layout design for BCI-based vision assessment. -->
 
 Outside of research, I’m a TA and [Peer Educator](https://oasus.rice.edu/peer-educator-program) in both Math and CS departments and love helping others understand mathematical ideas. I also enjoy playing basketball, Go, and all sorts of board games. A more recent hobby is exploring ramen spots. My favorite ramen spot in Cambridge is [Tsurumen](https://www.tsurumendavis.com/).
 
