@@ -24,7 +24,7 @@ Outside of research, I’m a TA and [Peer Educator](https://oasus.rice.edu/peer-
 
 news
 ------
-**October 6th, 2026** My work [GPU-Accelerated Bregman Douglas–Rachford Splitting for Discrete Optimal Transport](https://arxiv.org/abs/2610.04715) is now available as a preprint on arXiv!
+**October 5th, 2026** My work [GPU-Accelerated Bregman Douglas–Rachford Splitting for Discrete Optimal Transport](https://arxiv.org/abs/2610.04715) is now available as a preprint on arXiv!
 
 **September 17th, 2026** My [blog post about my experience growing up as an East Asian](/posts/2026/09/east-asia-and-i/) is up!
 
