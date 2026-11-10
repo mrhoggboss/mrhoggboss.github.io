@@ -48,7 +48,7 @@
   status: "manuscript in preparation for IEEE Transactions on Computational Social Systems"
   tags: [discrete optimal transport, graph matching, computational social science, labor markets]
   image: occupation-translator.svg
-  image_alt: "Optimal transport plan linking the task statements of Web Developers in O*NET 2017 and 2024, beside the ranked 2024 candidate occupations"
+  image_alt: "Optimal transport plan linking the task statements of Web Developers in O*NET 2017 and 2024"
   links:
     - {label: extended abstract, type: pdf, url: "/files/Occupation_Translator_extended_abs.pdf"}
 
