@@ -46,7 +46,7 @@
   title: "Translating Occupations Across Taxonomies With Inspectable Task Correspondences"
   authors: "H. Chen, **Y. Xu**, I. Loaiza Saa, C. A. Uribe"
   status: "manuscript in preparation for IEEE Transactions on Computational Social Systems"
-  tags: [Gromov-Wasserstein, graph matching, computational social science]
+  tags: [discrete optimal transport, computational social science, labor markets]
   image: occupation-translator.svg
   image_alt: "Optimal transport plan linking the task statements of Web Developers in O*NET 2017 and 2024, beside the ranked 2024 candidate occupations"
   links:
