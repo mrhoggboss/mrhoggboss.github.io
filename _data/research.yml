@@ -29,7 +29,7 @@
   image_alt: "Accuracy-time Pareto chart comparing the BDRS solvers against GPU baselines"
   links:
     - {label: arXiv, type: arxiv, url: "https://arxiv.org/abs/2610.04715"}
-    - {label: code, type: code, url: "https://github.com/mrhoggboss/Bregman-Douglas-Rachford"}
+    - {label: code, type: code, url: "https://github.com/mrhoggboss/BDRS-for-DOT"}
 
 - id: wasserstein-motifs
   title: "Wasserstein Motifs: Non-deterministic Alignment of Ecological Networks"
