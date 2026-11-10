@@ -17,7 +17,7 @@ Hi! I’m Yifan Xu, a senior at [Rice University](https://www.rice.edu/) majorin
 
 Outside of research, I’m a TA and [Peer Educator](https://oasus.rice.edu/peer-educator-program) in both Math and CS departments and love helping others understand mathematical ideas. I also enjoy playing basketball, Go, and all sorts of board games. More recently, I am trying to learn how to play the electric guitar, as well as learning concepts in [knot theory](https://en.wikipedia.org/wiki/Knot_theory). My favorite result in knot theory is that every knot or link has a [petal projection](https://en.wikipedia.org/wiki/Petal_projection), whose minimal number of petals is itself a [knot invariant](https://en.wikipedia.org/wiki/Knot_invariant).
 
-research
+publications
 ------
 
 {% include research-list.html %}
