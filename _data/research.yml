@@ -1,0 +1,64 @@
+# Entries in the Research section of the About page, rendered in this order.
+#   authors, status: Markdown (wrap your own name in ** ** to bold it)
+#   image:           file in /images/research/, shown centered in a 300x150 box
+#   links:           type picks the pill color: arxiv, code, pdf, openreview, doi
+#   id:              anchor for links like /#bregman-douglas-rachford
+
+- id: gromov-wasserstein
+  title: "Bregman Splitting and Multiplier Methods for the Discrete Gromov–Wasserstein Problem"
+  authors: "**Y. Xu**, S. Ma"
+  status: "manuscript under preparation"
+  tags: [Gromov-Wasserstein, first order method, GPU, nonconvex optimization]
+  image: gw-shadow-steps.svg
+  image_alt: "The run alternates between the row- and column-feasible sets; each plan projects along a fiber to its shadow on their intersection"
+
+- id: method-of-multipliers
+  title: "(γ,φ)-MadNCL: A GPU-friendly General-kernel Algorithm NCL for Large-Scale, Degenerate Nonlinear Programming"
+  authors: "**Y. Xu**, S. Shin"
+  status: "manuscript under preparation"
+  tags: [nonconvex optimization, GPU, augmented Lagrangian]
+  image: ncl-cutest-solved.svg
+  image_alt: "CUTEst instances solved out of 1,070: (γ,φ)-MadNCL 799, Ipopt 770, LiftedKKT 758, MadNCL + parameters 757, MadNCL 747, MadNLP augmented 732"
+
+- id: bregman-douglas-rachford
+  title: "GPU-Accelerated Bregman Douglas–Rachford Splitting for Discrete Optimal Transport"
+  authors: "**Y. Xu**, S. Ma"
+  status: "under review at Mathematical Programming Computation"
+  tags: [discrete optimal transport, GPU, first order method, linear optimization]
+  image: bdrs-pareto.png
+  image_alt: "Accuracy-time Pareto chart comparing the BDRS solvers against GPU baselines"
+  links:
+    - {label: arXiv, type: arxiv, url: "https://arxiv.org/abs/2610.04715"}
+    - {label: code, type: code, url: "https://github.com/mrhoggboss/Bregman-Douglas-Rachford"}
+
+- id: wasserstein-motifs
+  title: "Wasserstein Motifs: Non-deterministic Alignment of Ecological Networks"
+  authors: "**Y. Xu**, C. A. Taveras, L. Beaudrot, C. A. Uribe"
+  status: "conference paper at ICASSP 2026; **oral** at the LMRL Workshop at ICLR 2026"
+  tags: [Gromov-Wasserstein, graph matching, ecological networks, first order method]
+  image: wasserstein-motifs-alignment.webp
+  image_alt: "Alignment matrices between the Cliff of Bandiagara and Namaqua food webs for four methods"
+  links:
+    - {label: arXiv, type: arxiv, url: "https://arxiv.org/abs/2607.27496"}
+    - {label: OpenReview, type: openreview, url: "https://openreview.net/forum?id=ys92oWSFiB"}
+
+- id: occupational-taxonomy-alignment
+  title: "Enabling Workforce Intelligence through Occupational Taxonomy Alignment"
+  authors: "H. Chen, **Y. Xu**, I. Loaiza Saa, C. A. Uribe"
+  status: "manuscript in preparation for IEEE Transactions on Computational Social Systems"
+  tags: [Gromov-Wasserstein, graph matching, computational social science]
+  image: occupation-translator.png
+  image_alt: "Occupations in one taxonomy mapped to occupations in another"
+  links:
+    - {label: extended abstract, type: pdf, url: "/files/Occupation_Translator_extended_abs.pdf"}
+
+- id: bivirus-sis
+  title: "Networked Competitive Bivirus SIS Model: Analysis of the Discrete-Time Case"
+  authors: "S. J. Gracy, **Y. Xu**, J. Liu, T. Başar, C. A. Uribe"
+  status: "published in IEEE Open Journal of Control Systems, 2026"
+  tags: [epidemic modeling, networked dynamical systems, control theory]
+  image: bivirus-phase.svg
+  image_alt: "Phase portrait of average infection levels converging to a line of coexistence equilibria"
+  links:
+    - {label: DOI, type: doi, url: "https://doi.org/10.1109/OJCSYS.2026.3733517"}
+    - {label: code, type: code, url: "https://github.com/mrhoggboss/Discrete-time-competitive-bivirus-SIS"}

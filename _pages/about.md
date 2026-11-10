@@ -5,21 +5,23 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /projects/
+  - /projects/method-of-multipliers/
+  - /projects/bregman-douglas-rachford/
+  - /projects/occupational-taxonomy-alignment/
+  - /projects/wasserstein-motifs/
+  - /projects/bivirus-sis/
 ---
 
-Hi! I’m Yifan Xu, a senior at [Rice University](https://www.rice.edu/) majoring in Operations Research, Computer Science and Mathematics. I am currently working with Professor [Shiqian Ma](https://shiqianma.github.io/) on a [GPU-accelerated first order method](/projects/bregman-douglas-rachford/) for the (Kantorovich) Discrete Optimal Transport problem, and with Professor [Sungho Shin](https://cheme.mit.edu/profile/sungho-shin/) on [general-kernel augmented Lagrangian methods](/projects/method-of-multipliers/) for large-scale, degenerate nonlinear programming on GPUs. I also work with Professor [César A. Uribe](https://cauribe.rice.edu/) on optimization-based modeling and analysis of large-scale networked systems, with applications on [ecological networks](/projects/wasserstein-motifs/), [occupation taxonomies](/projects/occupational-taxonomy-alignment/), and [epidemics](/projects/bivirus-sis/).
+Hi! I’m Yifan Xu, a senior at [Rice University](https://www.rice.edu/) majoring in Operations Research, Computer Science and Mathematics. I am currently working with Professor [Shiqian Ma](https://shiqianma.github.io/) on a [GPU-accelerated first order method](#bregman-douglas-rachford) for the (Kantorovich) Discrete Optimal Transport problem, and with Professor [Sungho Shin](https://cheme.mit.edu/profile/sungho-shin/) on [general-kernel augmented Lagrangian methods](#method-of-multipliers) for large-scale, degenerate nonlinear programming on GPUs. I also work with Professor [César A. Uribe](https://cauribe.rice.edu/) on optimization-based modeling and analysis of large-scale networked systems, with applications on [ecological networks](#wasserstein-motifs), [occupation taxonomies](#occupational-taxonomy-alignment), and [epidemics](#bivirus-sis).
+
+Outside of research, I’m a TA and [Peer Educator](https://oasus.rice.edu/peer-educator-program) in both Math and CS departments and love helping others understand mathematical ideas. I also enjoy playing basketball, Go, and all sorts of board games. More recently, I am trying to learn how to play the electric guitar, as well as learning concepts in [knot theory](https://en.wikipedia.org/wiki/Knot_theory). My favorite result in knot theory is that every knot or link has a [petal projection](https://en.wikipedia.org/wiki/Petal_projection), whose minimal number of petals is itself a [knot invariant](https://en.wikipedia.org/wiki/Knot_invariant).
 
 research
 ------
-My research designs optimization methods — especially optimal transport and GPU-accelerated algorithms — and applies them across machine learning and the sciences. A full list is on my [research projects page](/projects/); current and past projects include:
- 
-- **[General-Kernel Augmented Lagrangian Methods for GPU-Accelerated Nonlinear Programming](/projects/method-of-multipliers/)** — GPU-friendly augmented-Lagrangian methods for large-scale, degenerate NLPs.
-- **[GPU-Accelerated Bregman Douglas–Rachford Splitting for Discrete Optimal Transport](/projects/bregman-douglas-rachford/)** — a scalable first-order optimal-transport solver in fused CUDA.
-- **[Enabling Workforce Intelligence through Occupational Taxonomy Alignment](/projects/occupational-taxonomy-alignment/)** — aligning occupations across taxonomies via Fused Gromov–Wasserstein.
-- **[Wasserstein Motifs: Optimal Transport for Ecological Network Alignment](/projects/wasserstein-motifs/)** — a rigorous, scalable framework for aligning food webs.
-- **[Networked Competitive Bivirus SIS Models](/projects/bivirus-sis/)** — equilibrium analysis of two competing epidemics spreading over networks.
+My research designs optimization methods — especially optimal transport and GPU-accelerated algorithms — and applies them across machine learning and the sciences. Current and past projects include:
 
-Outside of research, I’m a TA and [Peer Educator](https://oasus.rice.edu/peer-educator-program) in both Math and CS departments and love helping others understand mathematical ideas. I also enjoy playing basketball, Go, and all sorts of board games. More recently, I am trying to learn how to play the electric guitar, as well as learning concepts in [knot theory](https://en.wikipedia.org/wiki/Knot_theory). My favorite result in knot theory is that every knot or link has a [petal projection](https://en.wikipedia.org/wiki/Petal_projection), whose minimal number of petals is itself a [knot invariant](https://en.wikipedia.org/wiki/Knot_invariant).
+{% include research-list.html %}
 
 news
 ------
@@ -33,15 +35,15 @@ news
 
 **July 29th, 2026** I gave a whiteboard talk on Augmented Lagrangian Method with Intuition from Mechanics at [Shin Group](https://shin.mit.edu/)!
 
-**July 21st, 2026** I gave a virtual oral presentation on my work [Enabling Workforce Intelligence through Occupational Taxonomy Alignment](/projects/occupational-taxonomy-alignment/) at the [12th International Conference on computational Social Science](https://ic2s2-2026.org/)!
+**July 21st, 2026** I gave a virtual oral presentation on my work [Enabling Workforce Intelligence through Occupational Taxonomy Alignment](#occupational-taxonomy-alignment) at the [12th International Conference on computational Social Science](https://ic2s2-2026.org/)!
 
-**June 2nd, 2026** I gave an in-person oral presentation on my work [Enabling Workforce Intelligence through Occupational Taxonomy Alignment](/projects/occupational-taxonomy-alignment/) in the [FinEcoNets Workshop](https://sites.google.com/view/fineconets-netsci2026/) at the [Internation School & Conference on Network Science 2026](https://www.netsci2026.com/) in Boston, MA!
+**June 2nd, 2026** I gave an in-person oral presentation on my work [Enabling Workforce Intelligence through Occupational Taxonomy Alignment](#occupational-taxonomy-alignment) in the [FinEcoNets Workshop](https://sites.google.com/view/fineconets-netsci2026/) at the [Internation School & Conference on Network Science 2026](https://www.netsci2026.com/) in Boston, MA!
 
 **May 18th, 2026** I started my summer research internship at [Massachusetts Institute of Technology](https://www.mit.edu/), working with Professor [Sungho Shin](https://cheme.mit.edu/profile/sungho-shin/) on GPU-accelerated Method of Multipliers for Nonlinear Programming problems!
 
-**April 11th, 2026** I gave an in-person poster presentation on my work [Enabling Workforce Intelligence through Occupational Taxonomy Alignment](/projects/occupational-taxonomy-alignment/) at the [2026 Network Science and Economics Conference](https://sites.google.com/view/nse2026/home) in Miami, FL!
+**April 11th, 2026** I gave an in-person poster presentation on my work [Enabling Workforce Intelligence through Occupational Taxonomy Alignment](#occupational-taxonomy-alignment) at the [2026 Network Science and Economics Conference](https://sites.google.com/view/nse2026/home) in Miami, FL!
 
-**March 20th, 2026** I gave an in-person oral presentation on my work [Wasserstein Motifs: Non-deterministic Alignment of Ecological Networks](/projects/wasserstein-motifs/) at the [2026 INFORMS Optimization Society Conference](https://ios2026.isye.gatech.edu/) in Atlanta, GA!
+**March 20th, 2026** I gave an in-person oral presentation on my work [Wasserstein Motifs: Non-deterministic Alignment of Ecological Networks](#wasserstein-motifs) at the [2026 INFORMS Optimization Society Conference](https://ios2026.isye.gatech.edu/) in Atlanta, GA!
 
 **March 2, 2026** My paper [Wasserstein Motifs: Non-deterministic Alignment of Ecological Networks](https://iclr.cc/virtual/2026/10017640) has been accepted as an **oral presentation** at [the Learning Meaningful Representations of Life (LMRL) Workshop at ICLR 2026](https://www.lmrl.org/)!
 

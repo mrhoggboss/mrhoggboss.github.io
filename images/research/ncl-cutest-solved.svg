@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" width="600" height="300" role="img" aria-label="CUTEst, 1,070 instances: instances solved by configuration. (γ,φ)-MadNCL 799; Ipopt 770; LiftedKKT (ε = 10⁻⁸) 758; MadNCL + parameters 757; MadNCL 747; MadNLP augmented 732.">
+<rect width="600" height="300" fill="#ffffff"/>
+<g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+<text x="226" y="34" font-size="19" fill="#52514e">CUTEst · instances solved, of 1,070</text>
+<rect x="226" y="58" width="330" height="25" rx="4" fill="#f1f0ec"/>
+<path d="M226,58 h242.4 a4,4 0 0 1 4,4 v17 a4,4 0 0 1 -4,4 h-242.4 z" fill="#2a78d6"/>
+<text x="216" y="77.0" font-size="18" text-anchor="end" fill="#0b0b0b" font-weight="700">(γ,φ)-MadNCL</text>
+<text x="480.4" y="77.0" font-size="18" fill="#0b0b0b" font-weight="700">799</text>
+<rect x="226" y="97" width="330" height="25" rx="4" fill="#f1f0ec"/>
+<path d="M226,97 h233.5 a4,4 0 0 1 4,4 v17 a4,4 0 0 1 -4,4 h-233.5 z" fill="#8d8b85"/>
+<text x="216" y="116.0" font-size="18" text-anchor="end" fill="#52514e">Ipopt</text>
+<text x="471.5" y="116.0" font-size="18" fill="#52514e">770</text>
+<rect x="226" y="136" width="330" height="25" rx="4" fill="#f1f0ec"/>
+<path d="M226,136 h229.8 a4,4 0 0 1 4,4 v17 a4,4 0 0 1 -4,4 h-229.8 z" fill="#8d8b85"/>
+<text x="216" y="155.0" font-size="18" text-anchor="end" fill="#52514e">LiftedKKT (ε = 10⁻⁸)</text>
+<text x="467.8" y="155.0" font-size="18" fill="#52514e">758</text>
+<rect x="226" y="175" width="330" height="25" rx="4" fill="#f1f0ec"/>
+<path d="M226,175 h229.5 a4,4 0 0 1 4,4 v17 a4,4 0 0 1 -4,4 h-229.5 z" fill="#8d8b85"/>
+<text x="216" y="194.0" font-size="18" text-anchor="end" fill="#52514e">MadNCL + parameters</text>
+<text x="467.5" y="194.0" font-size="18" fill="#52514e">757</text>
+<rect x="226" y="214" width="330" height="25" rx="4" fill="#f1f0ec"/>
+<path d="M226,214 h226.4 a4,4 0 0 1 4,4 v17 a4,4 0 0 1 -4,4 h-226.4 z" fill="#8d8b85"/>
+<text x="216" y="233.0" font-size="18" text-anchor="end" fill="#52514e">MadNCL</text>
+<text x="464.4" y="233.0" font-size="18" fill="#52514e">747</text>
+<rect x="226" y="253" width="330" height="25" rx="4" fill="#f1f0ec"/>
+<path d="M226,253 h221.8 a4,4 0 0 1 4,4 v17 a4,4 0 0 1 -4,4 h-221.8 z" fill="#8d8b85"/>
+<text x="216" y="272.0" font-size="18" text-anchor="end" fill="#52514e">MadNLP augmented</text>
+<text x="459.8" y="272.0" font-size="18" fill="#52514e">732</text>
+</g>
+</svg>

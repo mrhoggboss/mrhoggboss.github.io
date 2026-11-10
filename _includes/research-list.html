@@ -1,0 +1,21 @@
+{% include base_path %}
+<div class="research-list">
+{%- for entry in site.data.research %}
+<div class="research-entry"{% if entry.id %} id="{{ entry.id }}"{% endif %}>
+<div class="research-entry__figure">
+{%- if entry.image %}<img src="{{ entry.image | prepend: "/images/research/" | prepend: base_path }}" alt="{{ entry.image_alt }}" loading="lazy">{% endif -%}
+</div>
+<div class="research-entry__body">
+<div class="research-entry__authors">{{ entry.authors | markdownify | remove: "<p>" | remove: "</p>" | strip }}</div>
+<div class="research-entry__title">{{ entry.title }}</div>
+<div class="research-entry__status">{{ entry.status | markdownify | remove: "<p>" | remove: "</p>" | strip }}</div>
+{%- if entry.tags %}
+<div class="research-entry__tags">{% for tag in entry.tags %}<span class="research-tag">{{ tag }}</span>{% endfor %}</div>
+{%- endif %}
+{%- if entry.links %}
+<div class="research-entry__links">{% for link in entry.links %}<a class="research-pill research-pill--{{ link.type }}" href="{% if link.url contains '://' %}{{ link.url }}{% else %}{{ base_path }}{{ link.url }}{% endif %}">{{ link.label }}</a>{% endfor %}</div>
+{%- endif %}
+</div>
+</div>
+{%- endfor %}
+</div>

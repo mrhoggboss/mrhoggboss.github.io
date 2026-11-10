@@ -1,0 +1,96 @@
+/* ==========================================================================
+   RESEARCH ENTRIES (About page)
+   ========================================================================== */
+
+.research-entry {
+  display: flex;
+  flex-wrap: wrap; /* body drops below the figure when the column is narrow */
+  align-items: flex-start;
+  gap: 0.75em 1.25em;
+  margin-bottom: 1.75em;
+}
+
+/* every figure is centered in the same 300x150 box */
+.research-entry__figure {
+  display: flex;
+  flex: 0 0 300px;
+  align-items: center;
+  justify-content: center;
+  max-width: 100%;
+  height: 150px;
+
+  img {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: 100%;
+    background: #fff; /* keeps transparent figures legible in the dark theme */
+    border-radius: $border-radius;
+  }
+}
+
+.research-entry__body {
+  flex: 1 1 16em;
+  min-width: 0;
+  line-height: 1.45;
+}
+
+.research-entry__authors,
+.research-entry__status {
+  font-size: $type-size-6;
+  color: var(--global-text-color-light);
+
+  p {
+    margin: 0;
+  }
+}
+
+.research-entry__title {
+  margin: 0.1em 0 0.15em;
+  font-weight: bold;
+  font-size: 0.95em;
+}
+
+.research-entry__status {
+  font-style: italic;
+}
+
+.research-entry__tags {
+  margin-top: 0.4em;
+}
+
+.research-tag {
+  display: inline-block;
+  margin: 0 0.3em 0.3em 0;
+  padding: 0 0.5em;
+  border-radius: 3px;
+  background: rgba(128, 128, 128, 0.18);
+  font-size: $type-size-8;
+}
+
+.research-entry__links {
+  margin-top: 0.15em;
+}
+
+.research-entry a.research-pill,
+.research-entry a.research-pill:visited,
+.research-entry a.research-pill:hover {
+  display: inline-block;
+  margin: 0.2em 0.35em 0 0;
+  padding: 0 0.55em;
+  border-radius: 3px;
+  color: #fff;
+  font-size: $type-size-7;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.research-entry a.research-pill:hover {
+  opacity: 0.85;
+}
+
+.research-pill--arxiv      { background: #c9302c; }
+.research-pill--code       { background: #e8a33d; }
+.research-pill--pdf        { background: #5b8fd6; }
+.research-pill--openreview { background: #5b6abf; }
+.research-pill--doi        { background: #2f8f83; }

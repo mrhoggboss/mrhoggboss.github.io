@@ -12,11 +12,8 @@ main:
     url: /about/
 
   - title: "CV"
-    url: /cv/    
+    url: /cv/
 
-  - title: "Research Projects"
-    url: /projects/
-        
   - title: "Blog Posts"
     url: /year-archive/
     
