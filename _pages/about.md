@@ -19,7 +19,6 @@ Outside of research, I’m a TA and [Peer Educator](https://oasus.rice.edu/peer-
 
 research
 ------
-My research designs optimization methods — especially optimal transport and GPU-accelerated algorithms — and applies them across machine learning and the sciences. Current and past projects include:
 
 {% include research-list.html %}
 
