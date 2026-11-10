@@ -18,7 +18,7 @@
   status: "manuscript under preparation"
   tags: [nonconvex optimization, GPU, augmented Lagrangian]
   image: ncl-cutest-solved.svg
-  image_alt: "CUTEst instances solved out of 1,070: (γ,φ)-MadNCL 799, Ipopt 770, LiftedKKT 758, MadNCL + parameters 757, MadNCL 747, MadNLP augmented 732"
+  image_alt: "CUTEst instances solved out of 1,070: φ-NCL 817, γ-NCL 804, Ipopt 785, MadNCL + parameters 783, LiftedKKT 774, MadNCL 768, MadNLP-augmented 763"
 
 - id: bregman-douglas-rachford
   title: "GPU-Accelerated Bregman Douglas–Rachford Splitting for Discrete Optimal Transport"
