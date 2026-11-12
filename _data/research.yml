@@ -23,7 +23,7 @@
 - id: bregman-douglas-rachford
   title: "GPU-Accelerated Bregman Douglas–Rachford Splitting for Discrete Optimal Transport"
   authors: "**Y. Xu**, S. Ma"
-  status: "under review at Mathematical Programming Computation"
+  status: "preprint"
   tags: [discrete optimal transport, GPU, first order method, linear optimization]
   image: bdrs-pareto.png
   image_alt: "Accuracy-time Pareto chart comparing the BDRS solvers against GPU baselines"
